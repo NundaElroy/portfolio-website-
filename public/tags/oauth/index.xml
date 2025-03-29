@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OAuth on Nunda Elroy</title>
+    <link>//localhost:1313/tags/oauth/</link>
+    <description>Recent content in OAuth on Nunda Elroy</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/oauth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting up  OAuth2 with Spring Boot</title>
+      <link>//localhost:1313/posts/first-post/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/first-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
